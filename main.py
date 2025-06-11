@@ -16,3 +16,8 @@ with col2:
     I am a software engineer with a passion for building web applications and exploring new technologies.
     """
     st.info(content)
+
+content2 = """
+Below you can find som of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
